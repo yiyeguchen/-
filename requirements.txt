@@ -1,0 +1,17 @@
+# 基于计算机视觉的碎石粒度智能分析系统
+# 项目依赖包列表
+
+# PyQt5 - GUI框架
+PyQt5>=5.15.0
+
+# OpenCV - 计算机视觉库
+opencv-python>=4.5.0
+
+# NumPy - 数值计算库
+numpy>=1.21.0
+
+# Matplotlib - 绘图库
+matplotlib>=3.5.0
+
+# Pillow - 图像处理库
+Pillow>=8.3.0
